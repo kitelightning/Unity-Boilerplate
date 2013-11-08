@@ -74,7 +74,7 @@ WHATSNEW*          text
 *.ai               binary
 *.anim             binary
 *.apk              binary
-*.asset            binary
+*.asset            binary diff=astextplain
 *.bin              binary
 *.bmp              binary
 *.BMP              binary
