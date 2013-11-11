@@ -117,7 +117,7 @@ WHATSNEW*          text
 *.physicMaterial   binary
 *.physicmaterial   binary
 *.png              binary
-*.prefab           binary
+*.prefab           binary diff=astextplain
 *.ps               binary
 *.psd              binary
 *.qt               binary
@@ -128,7 +128,7 @@ WHATSNEW*          text
 *.tiff             binary
 *.ttf              binary
 *.TTF              binary
-*.unity            binary
+*.unity            binary diff=astextplain
 *.unitypackage     binary
 *.unityPackage     binary
 *.wav              binary
