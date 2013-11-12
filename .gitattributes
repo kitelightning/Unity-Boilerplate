@@ -72,7 +72,7 @@ WHATSNEW*          text
 # No end-of-line conversions are applied (i.e., "-text -diff") to these files...
 *.7z               binary
 *.ai               binary
-*.anim             binary
+*.anim             binary diff=astextplain
 *.apk              binary
 *.asset            binary diff=astextplain
 *.bin              binary
