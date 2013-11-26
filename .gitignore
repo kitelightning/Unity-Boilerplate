@@ -6,6 +6,11 @@ UnityGenerated/
 *.pidb
 *.unityproj
 
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 # Ruby
 *.gem
 *.rbc
