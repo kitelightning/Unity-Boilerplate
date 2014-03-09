@@ -1,8 +1,8 @@
 #Unity Bullshit
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-UnityGenerated/
+UnityProject/[Ll]ibrary/
+UnityProject/[Tt]emp/
+UnityProject/[Oo]bj/
+UnityProject/UnityGenerated/
 *.pidb
 *.unityproj
 
@@ -218,3 +218,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 #Unity Project Specific
+UnityProject/UnityVS.UnityProject.CSharp.csproj
+UnityProject/UnityVS.UnityProject.CSharp.Editor.csproj
+UnityProject/UnityVS.UnityProject.sln
+UnityProject/UnityVS.UnityProject.sln.DotSettings

@@ -72,9 +72,9 @@ WHATSNEW*          text
 # No end-of-line conversions are applied (i.e., "-text -diff") to these files...
 *.7z               binary
 *.ai               binary
-*.anim             binary diff=astextplain
+*.anim             text eol=lf diff
 *.apk              binary
-*.asset            binary diff=astextplain
+*.asset            text eol=lf diff
 *.bin              binary
 *.bmp              binary
 *.BMP              binary
@@ -104,7 +104,7 @@ WHATSNEW*          text
 *.jpg              binary
 *.keystore         binary
 *.mask             binary
-*.mat              binary
+*.mat              text eol=lf diff
 *.mb               binary
 *.mp3              binary
 *.mp4              binary
@@ -117,7 +117,7 @@ WHATSNEW*          text
 *.physicMaterial   binary
 *.physicmaterial   binary
 *.png              binary
-*.prefab           binary diff=astextplain
+*.prefab           text eol=lf diff
 *.ps               binary
 *.psd              binary
 *.qt               binary
@@ -128,7 +128,7 @@ WHATSNEW*          text
 *.tiff             binary
 *.ttf              binary
 *.TTF              binary
-*.unity            binary diff=astextplain
+*.unity            text eol=lf diff
 *.unitypackage     binary
 *.unityPackage     binary
 *.wav              binary
