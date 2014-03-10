@@ -6,6 +6,12 @@ UnityProject/UnityGenerated/
 *.pidb
 *.unityproj
 
+#UnityVS
+UnityProject/UnityVS.*.CSharp.csproj
+UnityProject/UnityVS.*.CSharp.Editor.csproj
+UnityProject/UnityVS.*.sln
+UnityProject/UnityVS.*.sln.DotSettings
+
 # Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -218,7 +224,3 @@ $RECYCLE.BIN/
 .DS_Store
 
 #Unity Project Specific
-UnityProject/UnityVS.UnityProject.CSharp.csproj
-UnityProject/UnityVS.UnityProject.CSharp.Editor.csproj
-UnityProject/UnityVS.UnityProject.sln
-UnityProject/UnityVS.UnityProject.sln.DotSettings
